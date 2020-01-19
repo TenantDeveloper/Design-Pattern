@@ -1,0 +1,6 @@
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\tenan\source\repos\Design_Pattern\FactoryMethod\obj\Debug\FactoryMethod.pdb

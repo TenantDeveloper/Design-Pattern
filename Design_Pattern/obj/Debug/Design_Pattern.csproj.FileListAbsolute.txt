@@ -1,0 +1,10 @@
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.csprojAssemblyReference.cache
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.exe.config
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.exe
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.pdb
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\FactoryMethod.exe
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\FactoryMethod.pdb
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\bin\Debug\FactoryMethod.exe.config
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.csproj.CopyComplete
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.exe
+C:\Users\tenan\source\repos\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.pdb
